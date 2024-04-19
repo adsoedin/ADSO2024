@@ -1,2 +1,2 @@
-Esta es la  nueva version de leer_
-lA numero TRES
+En este repositorio ira el proyecto de software
+que estaremos construyendo de aqui a octubre
